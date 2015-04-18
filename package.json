@@ -1,0 +1,11 @@
+{
+  "name": "site-extension",
+  "description": "An Angular Site Extension",
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "wixLongDescription": "An Angular Site Extension"
+}
+
