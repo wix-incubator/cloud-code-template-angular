@@ -1,11 +1,11 @@
 {
-  "name": "site-extension",
-  "description": "An Angular Site Extension",
+  "name": "angularjs",
+  "description": "AngularJS Sample",
   "private": true,
   "dependencies": {
   },
   "devDependencies": {
   },
-  "wixLongDescription": "An Angular Site Extension"
+  "wixLongDescription": "An AngularJS boilerplate"
 }
 
