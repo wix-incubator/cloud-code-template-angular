@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    padding: 20px 15px;
+    text-align: center;
+}
+
+.container-text {
+    font-size: 11pt;
+}
