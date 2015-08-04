@@ -1,13 +1,13 @@
 body {
-    background-color: black;
-    color: white;
+  background-color: black;
+  color: white;
 }
 
 .container {
-    padding: 20px 15px;
-    text-align: center;
+  padding: 20px 15px;
+  text-align: center;
 }
 
 .container-text {
-    font-size: 11pt;
+  font-size: 11pt;
 }
